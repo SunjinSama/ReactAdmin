@@ -19,16 +19,16 @@ $orange-bg:                  #e95e38 !default;
 $smoke-bg:                   #F5F5F5 !default;
 $light-black:                #444    !default;
 
-$black-bg:                   rgba(30,30,30,.97) !default;
+$black-bg:                   #2C2F33 !default;
 
-$black-color:                #2c2c2c !default;
+$black-color:                #2C2F33 !default;
 $black-hr:                   #444444 !default;
 
 $hr-line:                    rgba(0,0,0, .1) !default;
 
-$light-gray:                 #E3E3E3 !default;
+$light-gray:                 #99AAB5 !default;
 $medium-gray:                #DDDDDD !default;
-$dark-gray:                  #9A9A9A !default;
+$dark-gray:                  #99AAB5 !default;
 
 $table-line-color:           #ccc !default;
 $muted-color:                #a49e93 !default;
@@ -66,9 +66,9 @@ $default-states-color:       #403D39 !default;
 $smoke-bg:                   #F5F5F5 !default;
 $pale-bg:                    #FFFCF5 !default;
 $medium-pale-bg:             #F1EAE0 !default;
-$default-body-bg:                 #f4f3ef !default;
+$default-body-bg:            #f4f3ef !default;
 
-$primary-color:              #51cbce !default;
+$primary-color:              #7289DA !default;
 $primary-states-color:       darken($primary-color, 10%) !default;
 
 $success-color:              #6bd098 !default;

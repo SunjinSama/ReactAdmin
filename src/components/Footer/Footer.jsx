@@ -17,12 +17,12 @@ class Footer extends React.Component {
               <ul>
                 <li>
                   <a href="https://www.creative-tim.com" target="_blank">
-                    Creative Tim
+                    Github
                   </a>
                 </li>
                 <li>
                   <a href="https://blog.creative-tim.com" target="_blank">
-                    Blog
+                    LinkedIn
                   </a>
                 </li>
                 <li>
@@ -38,7 +38,7 @@ class Footer extends React.Component {
             <div className="credits ml-auto">
               <div className="copyright">
                 &copy; {1900 + new Date().getYear()}, made with{" "}
-                <i className="fa fa-heart heart" /> by Creative Tim
+                <i className="fa fa-heart heart" /> by Jérémy Vansevenant
               </div>
             </div>
           </Row>

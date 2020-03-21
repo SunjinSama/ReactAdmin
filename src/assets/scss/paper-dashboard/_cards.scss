@@ -1,8 +1,8 @@
 .card{
   border-radius: $border-radius-extreme;
   box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.15);
-  background-color: #FFFFFF;
-  color: $card-black-color;
+  background-color: #23272A;
+  color: #FFFFFF;
   margin-bottom: 20px;
   position: relative;
   border: 0 none;
@@ -24,7 +24,7 @@
 
     .card-header{
       &:not([data-background-color]){
-        background-color: transparent;
+        background-color: transparent
       }
       padding: 15px 15px 0;
       border: 0;
